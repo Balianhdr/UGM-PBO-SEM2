@@ -1,9 +1,21 @@
-1.	Pemrograman Python Prosedural telah terbukti sangat membantu dalam memahami prinsip-prinsip dasar pemrograman dengan cara yang lebih terstruktur dan sistematis, sehingga memudahkan proses belajar bagi individu yang baru memulai di dunia pemrograman.
+Terdapat 5 perbedaan pada pemrograman python procedural dan berorientasi objek:
 
-2.	Dengan memisahkan kode menjadi fungsi-fungsi yang jelas dan terdefinisi, program menjadi jauh lebih mudah untuk dikelola dan dipahami, sehingga proses pengembangan dapat berlangsung dengan lebih efisien, cepat, dan terarah.
+1.	Pendekatan :
+a.	Prosedural: Fokus pada penggunaan fungsi. Program dibangun dengan menyusun berbagai fungsi yang dipanggil untuk mengolah data.
+b.	Berorientasi Objek (OOP): Fokus pada objek yang merupakan kombinasi antara data dan fungsi. Program dibangun dengan mendefinisikan kelas yang menggabungkan atribut (data) dan metode (fungsi) yang menggambarkan perilaku objek.
 
-3.	Melalui praktik langsung yang dilakukan secara mandiri, peserta diberikan kesempatan yang sangat berharga untuk menghadapi tantangan nyata dalam menyusun dan mengelola kode, yang pada gilirannya memperkuat pemahaman serta kemampuan aplikatif tentang cara kerja program secara lebih mendalam.
+2.	Struktur Data: 
+a.	Prosedural: Data dan fungsi terpisah. Data dikelola melalui fungsi yang berdiri sendiri, sehingga bisa sulit ketika menangani data yang kompleks.
+b.	Berorientasi Objek: Data dan fungsi terkait disatukan dalam objek. Ini membuat pengelolaan data lebih teratur dan lebih sesuai dengan hal yang ingin diprogram.
 
-4.	Pengalaman dalam menggunakan fungsi-fungsi di Python sangat berguna dalam pengembangan keterampilan pemrograman, di mana hal ini berhubungan erat dengan kemampuan untuk menyelesaikan berbagai masalah pemrograman secara lebih efektif, efisien, dan sistematis.
+3.	Reusabilitas Kode:
+a.	Prosedural: Reusabilitas terbatas. Fungsi bisa dipanggil di bagian berbeda, tetapi tidak ada hubungan antara fungsi dan data yang digunakan.
+b.	Memudahkan untuk menggunakan kembali kode melalui pewarisan, di mana kelas baru bisa menggunakan metode dan atribut dari kelas yang sudah ada.
 
-5.	Secara keseluruhan, kegiatan praktikum ini bukan hanya memberikan kontribusi positif dalam meningkatkan pengetahuan teoritis mengenai pemrograman, tetapi juga memberikan pengalaman praktis yang tak ternilai untuk mempersiapkan karir di bidang teknologi yang terus berkembang dan semakin kompleks, serta beradaptasi dengan tuntutan industri.
+4.	Keamanan dan Enkapsulasi:
+a.	Prosedural: Sulit untuk membatasi akses ke data, sehingga keamanannya kurang terjamin. Data dapat diakses oleh semua fungsi.
+b.	Berorientasi Objek: Memungkinkan enkapsulasi yang menyembunyikan data dan hanya memperbolehkan akses melalui metode tertentu. Ini meningkatkan keamanan karena data tidak bisa diakses langsung dari luar objek.
+
+5.	Pemeliharaan: 
+a.	Prosedural: Pemeliharaan bisa rumit seiring bertambahnya fungsi, karena hubungan antara fungsi dan data seringkali tidak jelas, sehingga berpotensi menimbulkan kesalahan.
+b.	Berorientasi Objek: Memudahkan pemeliharaan karena ada pemisahan yang jelas antara data dan fungsi yang terkait dengan objek. Jika ada perubahan pada satu objek, tidak semua bagian program perlu diubah, sehingga lebih mudah untuk dikelola dan diperbarui.
