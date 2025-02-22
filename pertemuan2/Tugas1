@@ -1,0 +1,15 @@
+ Kelas adalah sebuah blueprint atau cetak biru yang digunakan untuk
+mendefinisikan sifat dan perilaku dari objek dalam pemrograman berorientasi
+objek (OOP). Kelas berisi atribut (data) dan metode (fungsi) yang
+menjelaskan karakteristik dan tindakan yang bisa dilakukan oleh objek yang
+dihasilkan dari kelas tersebut. Dengan kata lain, kelas mengorganisir kode
+dan menyederhanakan proses pengembangan perangkat lunak dengan
+memberikan struktur yang jelas untuk tipe data yang kompleks.
+2. Objek adalah contoh nyata dari sebuah kelas yang sudah didefinisikan. Setiap
+objek punya keadaan (state) dan perilaku (behavior) yang diatur oleh
+kelasnya. Misalnya, jika kita berbicara tentang kelas mobil, maka objeknya
+bisa jadi "Mobil Merah" atau "Mobil Biru." Masing-masing objek ini
+memiliki nilai atribut yang berbeda, seperti warna dan kecepatan. Dengan
+adanya objek, programmer bisa lebih mudah menerapkan fungsionalitas yang
+spesifik dan berinteraksi dengan berbagai bagian dalam aplikasi secara lebih
+teratur
